@@ -8,5 +8,4 @@ npm install
 npm start
 
 
-
-![Screenshot (74)](https://user-images.githubusercontent.com/90758661/216406500-46542ab9-659f-465b-a60d-a7e7d58ff3fe.png)
+![www](https://user-images.githubusercontent.com/90758661/216407376-2b28e4fe-0d32-4f6f-8efe-4a6e2eb9a57c.png)
